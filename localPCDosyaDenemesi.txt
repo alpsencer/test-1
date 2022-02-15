@@ -3,5 +3,4 @@ Merhaba
 -İçerik eklendi
 
 
-
-Denemesi Çakışma 2
+ÇAKIŞMA DENEMESİ 1
