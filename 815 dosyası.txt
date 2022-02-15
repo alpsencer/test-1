@@ -1,0 +1,1 @@
+815 dosyasının anlamı dosyanın yüklendiği saatin birleşik ismi ile isimlendirilmesidir.
